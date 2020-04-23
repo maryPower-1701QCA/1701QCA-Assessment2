@@ -1,23 +1,61 @@
 # 1701QCA Making Interaction - Assessment 2 workbook
 
-You will use this workbook to keep track of your progress through the course and also as a process journal to document the making of your projects. The comments in italics throughout the template give suggestions about what to include. Feel free to delete those instructions when you have completed the sections.
-
-When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
-
 ## Project working title ##
-*Insert a name for the project as you conceive of it at the moment.*
-
-## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
+*The Kitchen Wheel.*
 
 ### Related project 1 ###
-*Insert name of project*
+*Spinner Activity*
 
-*Insert URL to project*
+*https://makecode.microbit.org/lessons/spinner/activity*
 
-![Image](missingimage.png)
+![Image](spinnerwheel.jpg)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because it also has a spinner wheel, and it has similar ideas to what I have planned for this project.
+
+### Related project 2 ###
+*Lucky Wheel*
+
+*https://makecode.adafruit.com/projects/lucky-wheel/code*
+
+![Image] (luckywheel.jpg)
+
+This project is related to mine because I am thinking of designing a wheel that randomly selects a different ingredient each time, and this project has a very similar idea to mine. 
+
+### Related project 3 ###
+*Dice*
+
+*https://makecode.adafruit.com/examples/dice*
+
+![Image] (dice.png)
+
+This project is related to mine because this projects runs on the concept of chance and luck, and frankly, so does mine. 
+
+### Related project 4 ###
+*RC Car*
+
+*http://chibibit.io/ide/docs/projects/rc-car.html*
+
+![Image] (rccar.jpg)
+
+This project is related to mine because both this current project that I am working on and this related car project are both considered as 'toys', so they are both used to entertain people and to bring some fun into life. They can also both be good projects to work on during the Covid-19 pandemic as everybody is stuck inside. 
+
+### Related project 5 ###
+*Reaction*
+
+*https://makecode.adafruit.com/examples/reaction*
+
+![Image] (reaction.jpg)
+
+This project is related to mine because both of these projects are based on reactions and on patience. They can also both be considered as fun games. 
+
+### Related project 6 ###
+*Hot Potato*
+
+*https://makecode.adafruit.com/projects/hot-potato*
+
+![Image] (hotpotato.jpg)
+
+This project is related to mine because both of these projects are considered as 'entertaining' as they are both technically games. 
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
