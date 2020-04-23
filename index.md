@@ -57,13 +57,13 @@ Lucky Wheel Code Source:
 
 https://makecode.adafruit.com/projects/lucky-wheel/code
 
-*This website is relevant because it has a very similar idea to my project and this code could help me with mine. I am deciding to either use the exact coding from this project, or something similar to it. 
+*This website is relevant because it has a very similar idea to my project and this code could help me with mine. I am deciding to either use the exact coding from this project, or something similar to it.*
 
 Spinner Activity Source:
 
 https://makecode.microbit.org/lessons/spinner/activity
 
-*This website is relevant because it also has a very similar idea to my project. I won't be using this particular code from it but I'll be using something similar to it. 
+*This website is relevant because it also has a very similar idea to my project. I won't be using this particular code from it but I'll be using something similar to it.* 
 
 ### *Lucky Wheel* ###
 
@@ -89,7 +89,7 @@ https://makecode.adafruit.com/projects/lucky-wheel/code
 
 ![Image](diagram.png)
 
-*The plan is that if you press and hold either button/s A and/or B for different periods of time, it would control the speed and time of the motor, hopefully making the arrow attached to the wheel land on a different ingredient each time. 
+*The plan is that if you press and hold either button/s A and/or B for different periods of time, it would control the speed and time of the motor, hopefully making the arrow attached to the wheel land on a different ingredient each time.* 
 
 ## Physical experimentation documentation ##
 
@@ -106,7 +106,6 @@ https://makecode.adafruit.com/projects/lucky-wheel/code
 *This is a list of some of the ingredients that I am planning to add to the wheel so far. I am either planning on adding more or taking some away, as I do not want to have too many ingredients as it might mess up the coding.*
 
 ## Design process discussion ##
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
 ![Image](doublediamond.png)
 
@@ -123,4 +122,5 @@ I ended up talking one-on-one with my tutor, Ged as I was really stuck to come u
 I ended up finding code and a design that might work for this idea. So I was confident and ready to start planning this project out.
 
 ## Next steps ##
+
 *I still need to test the code, design the wheel and arrow, come up with more ingredients, come up with the final project, film me using it. Hopefully that won't take too long as this project is due at the end of Week 12, so I have only a month or so to go until this is due. Should be plenty of time.*
