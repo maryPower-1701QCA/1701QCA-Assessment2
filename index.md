@@ -95,7 +95,7 @@ https://makecode.adafruit.com/projects/lucky-wheel/code
 
 ![Image](code.png)
 
-*This is the type of code I am aiming to use during the making of this project*
+*This is the code that is my inspiration during the making of this project*
 
 ![Image](spinnerwheel.jpg)
 
