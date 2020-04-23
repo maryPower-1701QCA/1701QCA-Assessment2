@@ -1,10 +1,9 @@
-# 1701QCA Making Interaction - Assessment 2 workbook
 
-## Project working title ##
-*The Kitchen Wheel.*
+# 1701QCA Making Interaction - Assessment 2 workbook #
 
-### Related project 1 ###
-*Spinner Activity*
+## The Kitchen Wheel ##
+
+### Spinner Activity ###
 
 *https://makecode.microbit.org/lessons/spinner/activity*
 
@@ -12,8 +11,7 @@
 
 This project is related to mine because it also has a spinner wheel, and it has similar ideas to what I have planned for this project.
 
-### Related project 2 ###
-*Lucky Wheel*
+### Lucky Wheel ###
 
 *https://makecode.adafruit.com/projects/lucky-wheel/code*
 
@@ -21,8 +19,7 @@ This project is related to mine because it also has a spinner wheel, and it has 
 
 This project is related to mine because I am thinking of designing a wheel that randomly selects a different ingredient each time, and this project has a very similar idea to mine. 
 
-### Related project 3 ###
-*Dice*
+### Dice ###
 
 *https://makecode.adafruit.com/examples/dice*
 
@@ -30,8 +27,7 @@ This project is related to mine because I am thinking of designing a wheel that 
 
 This project is related to mine because this projects runs on the concept of chance and luck, and frankly, so does mine. 
 
-### Related project 4 ###
-*RC Car*
+### RC Car ###
 
 *http://chibibit.io/ide/docs/projects/rc-car.html*
 
@@ -39,8 +35,7 @@ This project is related to mine because this projects runs on the concept of cha
 
 This project is related to mine because both this current project that I am working on and this related car project are both considered as 'toys', so they are both used to entertain people and to bring some fun into life. They can also both be good projects to work on during the Covid-19 pandemic as everybody is stuck inside. 
 
-### Related project 5 ###
-*Reaction*
+### Reaction ###
 
 *https://makecode.adafruit.com/examples/reaction*
 
@@ -48,8 +43,7 @@ This project is related to mine because both this current project that I am work
 
 This project is related to mine because both of these projects are based on reactions and on patience. They can also both be considered as fun games. 
 
-### Related project 6 ###
-*Hot Potato*
+### Hot Potato ###
 
 *https://makecode.adafruit.com/projects/hot-potato*
 
@@ -71,7 +65,7 @@ https://makecode.microbit.org/lessons/spinner/activity
 
 *This website is relevant because it also has a very similar idea to my project. I won't be using this particular code from it but I'll be using something similar to it. 
 
-### *Brief resource name/description* ###
+### *Lucky Wheel* ###
 
 https://makecode.adafruit.com/projects/lucky-wheel/code
 
@@ -89,26 +83,44 @@ https://makecode.adafruit.com/projects/lucky-wheel/code
 *The second design concept was to have the machine pick a randomised number, and then match the number to an ingredient. I decided that this was not going to be the final design concept as this would require two different lists, and that might end up not working as a lot of different types of code would be involved.*
 
 ### Final design concept ###
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+*The final descign concept (the one that I will actually be using thorughout this project) is to have the machine pick a random, different ingredient each time throught the use of a Lucky/Spinning Wheel. This idea was inspired by TV shows such as Masterchef and Wheel of Fortune. I am planning to make a cardboard wheel with a variety of ingredients and then attach it to a motor. I am also going to make a wheel as well and then program the motor so that the arrow lands on a different ingredient each time. The speed of the motor will be controlled by far the buttons on the actual microbit are pushed and for how long.*
 
-### Interaction flowchart ###
-*Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
+### Interaction flowchart/diagram ###
 
-![Image](missingimage.png)
+![Image](diagram.png)
+
+*The plan is that if you press and hold either button/s A and/or B for different periods of time, it would control the speed and time of the motor, hopefully making the arrow attached to the wheel land on a different ingredient each time. 
 
 ## Physical experimentation documentation ##
 
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
+![Image](code.png)
 
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
+*This is the type of code I am aiming to use during the making of this project*
 
-![Image](spinnercode.png)
+![Image](spinnerwheel.jpg)
+
+*This is the inspiration behind the design of the wheel. I am planning to attach an arrow to it that doesn't fly off easily.* 
+
+![Image](list.png)
+
+*This is a list of some of the ingredients that I am planning to add to the wheel so far. I am either planning on adding more or taking some away, as I do not want to have too many ingredients as it might mess up the coding.*
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
+![Image](doublediamond.png)
+
+*Discover:*
+I had to discover ways to achieve my idea of making a fun game involving a random picking of ingredients. I really struggled to think of many different ways to achieve this idea. 
+
+*Define:*
+I had to really think of how to design the list or the type of machine that would pick the ingredients, and i had to picture different solutions in my head.*
+
+*Develop:*
+I ended up talking one-on-one with my tutor, Ged as I was really stuck to come up with solutions. He gave me the idea of a spinning wheel and arrow that is attached to a motor, and depending on how long the wheel spins for, it could give me different ingredients each time. He was talking about Masterchef, so I took that as another inspiration.*
+
+*Deliever*
+I ended up finding code and a design that might work for this idea. So I was confident and ready to start planning this project out.
+
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+*I still need to test the code, design the wheel and arrow, come up with more ingredients, come up with the final project, film me using it. Hopefully that won't take too long as this project is due at the end of Week 12, so I have only a month or so to go until this is due. Should be plenty of time.*
